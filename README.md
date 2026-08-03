@@ -36,4 +36,6 @@
     [   30   118]
 
 ----------------------------------
-Está faltando neste repositório: análise sobre variáveis que mais influenciaram o machine learning.
+Está faltando neste repositório: 
+- Análise sobre variáveis que mais influenciaram o machine learning.
+- Ajuste e teste de hiperparâmetros, testes finais para conclusão definitiva.
