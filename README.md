@@ -1,4 +1,4 @@
-# deteccao_de_anomalias_em_transa-es.py
+# deteccao_de_anomalias_em_transacoes.py
 Atividade proposta num bootcamp da DIO, onde devia otimizar um código para machine learning de detecção de anomalias em transações de cartões de crédito, testando diferentes balanceamentos de dados, modelos de machine learning e suas configurações para sensibilidade aos dados enquanto mantém boa recall e precisão.
 
 No curso, a base do código foi entregue e a proposta era que otimizássemos o código para melhor eficiência ao que é proposto. Assim devíamos realizar diversos testes com modelos e métodos de balanceamento de dados para encontrar as melhores soluções. 
